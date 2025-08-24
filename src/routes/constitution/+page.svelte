@@ -1,3 +1,9 @@
+<svelte:head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NSSDL Dynasty League Constitution</title>
+</svelte:head>
+
 <h1>NSSDL Dynasty League Constitution</h1>
 
 <h2>Preamble</h2>
